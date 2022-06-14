@@ -1,0 +1,10 @@
+.img {
+  width: 100%;
+}
+.main {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 2rem;
+  
+}

@@ -1,0 +1,397 @@
+/* ////////////////////////////////////////////////////// h3 */
+
+h2 {
+  text-align: center;
+  font-size: larger;
+  color: #764af1;
+}
+h3 {
+  color: #fcffe7;
+}
+.Structure h3 {
+  text-align: center;
+  color: #fcffe7;
+}
+.StructureSecond h3 {
+  text-align: center;
+}
+
+.StructureThird h3 {
+  text-align: center;
+}
+
+.StructureForth h3 {
+  text-align: center;
+}
+
+.StructureFifth h3 {
+  text-align: center;
+}
+
+.StructureSixth h3 {
+  text-align: center;
+}
+
+.StructureSeven h3 {
+  text-align: center;
+}
+
+.StructureEight h3 {
+  text-align: center;
+}
+
+.StructureNinth h3 {
+  text-align: center;
+}
+/* ///////////////////////////////////////////////////////// paragraph */
+p {
+  color: #ffffff;
+}
+
+.Structure p {
+  font-size: large;
+  font-style: italic;
+  text-align: center;
+}
+
+.StructureSecond p {
+  font-size: large;
+  font-style: italic;
+  text-align: center;
+}
+
+.StructureThird p {
+  font-size: large;
+  font-style: italic;
+  text-align: center;
+}
+
+.StructureForth p {
+  font-size: large;
+  font-style: italic;
+  text-align: center;
+}
+
+.StructureFifth p {
+  font-size: large;
+  font-style: italic;
+  text-align: center;
+}
+
+.StructureSixth p {
+  font-size: large;
+  font-style: italic;
+  text-align: center;
+}
+
+.StructureSeven p {
+  font-size: large;
+  font-style: italic;
+  text-align: center;
+}
+
+.StructureEight p {
+  font-size: large;
+  font-style: italic;
+  text-align: center;
+}
+
+.StructureNinth p {
+  font-size: large;
+  font-style: italic;
+  text-align: center;
+}
+/* ///////////////////////////////////////////////////Structure */
+
+.main {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Structure {
+  margin-left: 1rem;
+  margin-top: 1%;
+  background-color: #eb5353;
+  height: 30rem;
+  width: 30rem;
+  border-radius: 8px;
+}
+
+.StructureSecond {
+  margin-left: 32rem;
+  margin-top: -30rem;
+  background-color: #00ffab;
+  height: 30rem;
+  width: 30rem;
+  border-radius: 8px;
+}
+
+.StructureThird {
+  margin-right: 1rem;
+  margin-left: 63rem;
+  margin-top: -30rem;
+  background-color: #9a86a4;
+  height: 30rem;
+  width: 31rem;
+  border-radius: 8px;
+}
+
+.StructureForth {
+  margin-left: 1rem;
+  margin-top: 1rem;
+  background-color: #764af1;
+  height: 31rem;
+  width: 30rem;
+  border-radius: 8px;
+}
+
+.StructureFifth {
+  margin-left: 32rem;
+  margin-top: -31rem;
+  background-color: #68a7ad;
+  height: 31rem;
+  width: 30rem;
+  border-radius: 8px;
+}
+
+.StructureSixth {
+  margin-left: 63rem;
+  margin-top: -31rem;
+  background-color: #9fc088;
+  height: 31rem;
+  width: 31rem;
+  border-radius: 8px;
+}
+
+.StructureSeven {
+  margin-left: 1rem;
+  margin-top: 1rem;
+  background-color: #79dae8;
+  height: 31rem;
+  width: 30rem;
+  border-radius: 8px;
+}
+
+.StructureEight {
+  margin-left: 32rem;
+  margin-top: -31rem;
+  background-color: #ce9461;
+  height: 31rem;
+  width: 30rem;
+  border-radius: 8px;
+}
+
+.StructureNinth {
+  margin-left: 63rem;
+  margin-top: -31rem;
+  background-color: #cc704b;
+  height: 31rem;
+  width: 31rem;
+  border-radius: 8px;
+}
+
+/* ///////////////////////////////////////////////////// Image */
+.headerImage {
+  width: 100%;
+  padding-bottom: 1rem;
+}
+
+.Structure img {
+  width: 20rem;
+  height: 15rem;
+  margin-left: 5rem;
+  margin-top: 2rem;
+  border-radius: 5px;
+}
+
+.StructureSecond img {
+  width: 20rem;
+  height: 15rem;
+  margin-left: 6rem;
+  margin-top: 2rem;
+  border-radius: 5px;
+}
+
+.StructureThird img {
+  width: 20rem;
+  height: 15rem;
+  margin-left: 6rem;
+  margin-top: 2rem;
+  border-radius: 5px;
+}
+
+.StructureForth img {
+  width: 20rem;
+  height: 15rem;
+  margin-left: 6rem;
+  margin-top: 2rem;
+  border-radius: 5px;
+}
+
+.StructureFifth img {
+  width: 20rem;
+  height: 15rem;
+  margin-left: 6rem;
+  margin-top: 2rem;
+  border-radius: 5px;
+}
+
+.StructureSixth img {
+  width: 20rem;
+  height: 15rem;
+  margin-left: 6rem;
+  margin-top: 2rem;
+  border-radius: 5px;
+}
+
+.StructureSeven img {
+  width: 20rem;
+  height: 15rem;
+  margin-left: 6rem;
+  margin-top: 2rem;
+  border-radius: 5px;
+}
+
+.StructureEight img {
+  width: 20rem;
+  height: 15rem;
+  margin-left: 6rem;
+  margin-top: 2rem;
+  border-radius: 5px;
+}
+
+.StructureNinth img {
+  width: 20rem;
+  height: 15rem;
+  margin-left: 6rem;
+  margin-top: 2rem;
+  border-radius: 5px;
+}
+
+/* //////////////////////////////////////////////////Button */
+
+.Structure Button {
+  font-size: larger;
+  margin-left: 12rem;
+  margin-top: 1rem;
+  width: 7rem;
+  height: 2rem;
+  background-color: black;
+  color: #00ffab;
+  border-radius: 5px;
+}
+
+.StructureSecond Button {
+  font-size: larger;
+  margin-left: 12rem;
+  margin-top: 1rem;
+  width: 7rem;
+  height: 2rem;
+  background-color: black;
+  color: #00ffab;
+  border-radius: 5px;
+
+}
+
+.StructureThird Button {
+  font-size: larger;
+
+  margin-left: 12rem;
+  margin-top: -2rem;
+  width: 7rem;
+  height: 2rem;
+  background-color: black;
+  color: #00ffab;
+  border-radius: 5px;
+
+}
+
+.StructureForth Button {
+  font-size: larger;
+
+  margin-left: 12rem;
+  margin-top: -3rem;
+  width: 7rem;
+  height: 2rem;
+  background-color: black;
+  color: #00ffab;
+  border-radius: 5px;
+
+}
+
+.StructureFifth Button {
+  font-size: larger;
+
+  margin-left: 12rem;
+  margin-top: 1rem;
+  width: 7rem;
+  height: 2rem;
+  background-color: black;
+  color: #00ffab;
+  border-radius: 5px;
+
+}
+
+.StructureSixth Button {
+  font-size: larger;
+
+  margin-left: 12rem;
+  margin-top: 1rem;
+  width: 7rem;
+  height: 2rem;
+  background-color: black;
+  color: #00ffab;
+  border-radius: 5px;
+
+}
+
+.StructureSeven Button {
+  font-size: larger;
+
+  margin-left: 12rem;
+  margin-top: 1rem;
+  width: 7rem;
+  height: 2rem;
+  background-color: black;
+  color: #00ffab;
+  border-radius: 5px;
+
+}
+
+.StructureEight Button {
+  font-size: larger;
+  margin-left: 12rem;
+  margin-top: -2rem;
+  width: 7rem;
+  height: 2rem;
+  background-color: black;
+  color: #00ffab;
+  border-radius: 5px;
+
+}
+
+.StructureNinth Button {
+  font-size: larger;
+  color: #00ffab;
+  margin-left: 12rem;
+  margin-top: -2rem;
+  width: 7rem;
+  height: 2rem;
+  background-color: black;
+  border-radius: 5px;
+
+}
+
+.footer h1 {
+  margin-left: 1rem;
+  font-style: italic;
+  color: Black;
+}
+
+.footer p {
+  margin-left: 1rem;
+  color: #041562;
+  font-style: italic;
+  font-size: large;
+}
